@@ -8,7 +8,7 @@
 	"CreatedBy": "Michael Allar",
 	"CreatedByURL": "http://www.gamemak.in",
 	"DocsURL": "",
-	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/2b028a7bcb364d09ade961fbe5f16fbf",
+	"MarketplaceURL": "https://github.com/Allar/ue4-simple-panoramic-exporter",
 	"SupportURL": "https://discord.gamemak.in",
 	"EngineVersion": "4.26.0",
 	"CanContainContent": false,
