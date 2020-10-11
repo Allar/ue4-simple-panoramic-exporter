@@ -29,6 +29,8 @@ This is no longer supported officially by its author. This is released under MIT
 
 If you go to the Releases tab, binaries have been built for the launcher version of Unreal Engine. They should not need to be recompiled unless for some reason you're already compiling things. You will need to compile these binaries again if you are using a source build of the engine, which isn't a problem because you're already using a source build of the engine.
 
+Extract Plugins\PanoramicExporter into your Project's Plugins folder. You can also install it as an Engine plugin.
+
 # Usage
 
 Once installed, you can place a Panoramic Exporter into your level and configure it via the details panel. When an exporter is in an active play session it will immediately start exporting. You can animate this actor using Sequencer and it'll export a 360 capture wherever it is located.
